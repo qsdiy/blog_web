@@ -44,9 +44,9 @@ Hi there , finally you found me!  -_-
     - 类UNIX系统重度使用者
 
 
-  
 
-- LLM领域转型中
+
+- LLM学习中
 
   
 
